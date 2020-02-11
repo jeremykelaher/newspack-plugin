@@ -60,6 +60,10 @@ class Configuration_Managers {
 			'filename'   => 'class-laterpay-configuration-manager.php',
 			'class_name' => 'LaterPay_Configuration_Manager',
 		],
+		'onesignal'             => [
+			'filename'   => 'class-onesignal-configuration-manager.php',
+			'class_name' => 'OneSignal_Configuration_Manager',
+		],
 	];
 
 	/**
